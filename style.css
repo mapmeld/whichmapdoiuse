@@ -1,0 +1,14 @@
+html, body{
+  margin: 0;
+  padding: 20px;
+  font-family: arial, san-serif;
+}
+li{
+  margin-bottom: 9px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
