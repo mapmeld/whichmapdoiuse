@@ -42,7 +42,7 @@ var questionflow = {
         },
         {
           option: "no",
-          question: "Does your map need imagery at a 45-degree angle? <img src='http://www.bing.com/community/cfs-file.ashx/__key/CommunityServer-Blogs-Components-WeblogFiles/00-00-00-54-35-metablogapi/2045.clip_5F00_image013_5F00_thumb_5F00_32E3BE59.gif'/>",
+          question: "Does your map need to map buildings at a close-up 45-degree angle?",
           options: [
             {
               option: "yes",
